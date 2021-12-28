@@ -38,7 +38,7 @@ h3{
 }
 .Chicken{
 	background-color: gray;
-	margin:10px;
+	margin:30px;
 	margin-top: 20px;
 	padding-top:0px;
 	padding-left: 10px;
@@ -50,7 +50,7 @@ h3{
 
 .Beef{
 	background-color: gray;
-	margin:10px;
+	margin:30px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	padding-top:0px;
@@ -63,7 +63,7 @@ h3{
 
 .Sushi{
 	background-color: gray;
-	margin:10px;
+	margin:30px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	padding-top:0px;
@@ -94,4 +94,9 @@ h3{
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -60px;
+}
+
+.glavi{
+	font-size:20px;
+	font-weight: bold;	
 }
